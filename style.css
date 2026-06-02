@@ -1,7 +1,9 @@
 @charset "utf-8";
 body {
-	background-color: antiquewhite
-}
-h2 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+    background-color: #98e0f9;
+	font-family: 'Playfair Display', serif;
+    font-size: 1.3rem;
+    line-height: 1.2;
+    color: #1a202c;
+    margin-bottom: 12px;
 }
